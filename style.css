@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+.action {
+  display: absolute;
+  display: flex;
+  flex-direction: row;
+}
